@@ -10,13 +10,13 @@ Các file FLAC được quản lý bằng Git LFS để lịch sử Git không p
 Clone đầy đủ cả nhạc:
 
 ```sh
-git clone <repository-url>
+git clone https://github.com/vuvanHuy2409/HVL.git
 ```
 
 Clone source gọn trước, tải nhạc khi cần:
 
 ```sh
-GIT_LFS_SKIP_SMUDGE=1 git clone <repository-url> hvl-player
+GIT_LFS_SKIP_SMUDGE=1 git clone https://github.com/vuvanHuy2409/HVL.git/hvl-player
 cd hvl-player
 git lfs pull --include="music/*.flac"
 ```
