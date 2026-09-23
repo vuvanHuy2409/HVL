@@ -1,0 +1,14 @@
+.DS_Store
+.AppleDouble
+.LSOverride
+._*
+
+# Generated build output and packaged applications
+target/
+build/
+dist/
+*.app/
+*.class
+*.dmg
+*.exe
+*.log
