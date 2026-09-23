@@ -44,3 +44,4 @@ Các file tạo ra nằm trong `build/`, `target/`, `dist/` và được loại 
 - Nút `Theo danh sách` chuyển sang `Ngẫu nhiên`.
 - `Space`: phát/tạm dừng; `←` / `→`: lùi/tiến bài.
 - Ảnh bìa trong metadata được hiển thị nếu có.
+# HVL
